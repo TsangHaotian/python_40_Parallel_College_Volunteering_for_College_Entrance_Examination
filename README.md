@@ -30,7 +30,8 @@
 ![屏幕截图 2025-06-11 121459](https://github.com/user-attachments/assets/f0c4d32a-d7d5-4f64-8124-c86556231952)
 
 ### 附件：福建高考报名表（与福建省教育考试院界面一致_官网有40个下图小表格，呈现为2x20排列）
-![屏幕截图 2025-06-11 003323](https://github.com/user-attachments/assets/9ef7e1cc-189e-454c-ae07-7f54d7bd4b46)
+![微信图片_20250611131701](https://github.com/user-attachments/assets/d84794ba-edb9-4b8a-b29c-d904263ea38a)
+
 
 
 

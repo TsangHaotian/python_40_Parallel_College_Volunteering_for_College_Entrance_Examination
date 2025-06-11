@@ -1,0 +1,2 @@
+# python_40_Parallel_College_Volunteering_for_College_Entrance_Examination
+3+2+1地区40个平行志愿高考报考模拟系统(基于福建高考)

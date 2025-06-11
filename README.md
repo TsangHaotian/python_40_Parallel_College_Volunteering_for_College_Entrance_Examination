@@ -13,6 +13,27 @@
 - 志愿模拟录取结果预测
 - 数据导入导出功能
 
+##运行界面
+![屏幕截图 2025-06-11 014657](https://github.com/user-attachments/assets/f7d0efbe-84d2-4077-9b27-347df8d08fd4)
+大学信息表界面图
+
+![屏幕截图 2025-06-11 014715](https://github.com/user-attachments/assets/80c045b2-c32e-4c84-a3f6-d074ca5482d3)
+高考志愿填报表界面图
+
+![屏幕截图 2025-06-11 013134](https://github.com/user-attachments/assets/76d8ec35-1869-4667-9663-3e739c77dc97)
+志愿填报系统界面图
+
+![屏幕截图 2025-06-11 030126](https://github.com/user-attachments/assets/3b034ca2-ee80-4766-b908-675df5347a98)
+使用界面
+
+![屏幕截图 2025-06-11 121459](https://github.com/user-attachments/assets/f0c4d32a-d7d5-4f64-8124-c86556231952)
+退档原则示意图
+
+###附件：福建高考报名表（与福建省教育考试院界面一致_官网有40个下图小表格，呈现为2x20排列）
+![屏幕截图 2025-06-11 003323](https://github.com/user-attachments/assets/9ef7e1cc-189e-454c-ae07-7f54d7bd4b46)
+
+
+
 ## 使用步骤（开发者版本）
 
 ### 1. 准备工作
